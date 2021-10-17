@@ -9,4 +9,5 @@ Descripton:Different words fall from the top
 
 https://openprocessing.org/sketch/1033440
 
-![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/case.png)
+<!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/case.png) -->
+<img src="https://openprocessing.org/sketch/1033440" width="50%">
