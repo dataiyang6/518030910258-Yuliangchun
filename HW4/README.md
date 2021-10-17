@@ -2,7 +2,8 @@
 Image changes with the mouse press. 
 <!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png) -->
 <img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png" width="50%">
-'''
+
+```
 //hw4
 PFont font;
 String txt= "create";
@@ -49,7 +50,7 @@ void draw(){
     tHeight2 += tW*1.5;
   }    
 }
-'''
+```
 ## the case:
 
 by takawo
