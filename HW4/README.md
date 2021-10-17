@@ -8,4 +8,4 @@ Descripton:Different words fall from the top
 
 https://openprocessing.org/sketch/1033440
 
-
+![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/case.png)
