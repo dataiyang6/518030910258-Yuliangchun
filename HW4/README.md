@@ -1,5 +1,5 @@
 # Homework4
-Images change with the mouse press. 
+Image changes with the mouse press. 
 <!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png) -->
 <img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png" width="50%">
 
