@@ -13,7 +13,7 @@
 ### 作业说明
 Image changes with the mouse press. 
 <!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png) -->
-<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png" width="50%">
+<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/hw4.png" width="50%">
 
 
 ```
@@ -73,4 +73,4 @@ Descripton:Different words fall from the top.
 https://openprocessing.org/sketch/1033440
 
 <!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/case.png) -->
-<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/case.png" width="50%">
+<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/case.png" width="50%">
