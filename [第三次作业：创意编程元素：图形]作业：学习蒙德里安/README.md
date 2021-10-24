@@ -5,3 +5,4 @@
 
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
 
+<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW3/hw3.png" width="50%">
