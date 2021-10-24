@@ -1,4 +1,4 @@
-//hw2 by ylc
+//hw2
 //draw a smile
 
 float pi=3.14;  //pi
