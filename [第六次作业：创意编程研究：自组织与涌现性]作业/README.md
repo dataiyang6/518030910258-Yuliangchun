@@ -8,7 +8,7 @@
 #### 功能和使用方法说明
 鼠标点击画布和拖动查看效果。
 
-#### 示例草图
+#### 运行结果
 <img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B6%8C%E7%8E%B0%E6%80%A7%5D%E4%BD%9C%E4%B8%9A/hw6.gif" width="50%">
 
 #### 代码
