@@ -1,118 +1,81 @@
-# 第六次作业
+# 第七次作业
 
 ### 作业要求
 
-创建您自己的基于粒子系统的可交互的动态创意作品，并输出为mp4/gif文件。作业（设计说明，源代码，视频/GIF文件）上传到GitHub账户，链接上传到canvas。
+结合课程案例，创建分形机制，建立一个具有生命特征/生态系统特征的可交互的动态创意作品，并输出为mp4/gif文件。作业（设计说明，源代码，视频/GIF文件）上传到GitHub，链接上传到canvas。
 
 ### 作业说明
 #### 功能和使用方法说明
-鼠标点击画布和拖动查看效果。
+移动鼠标位置变换形状，点击鼠标改变树叶颜色。
 
 #### 运行结果
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B6%8C%E7%8E%B0%E6%80%A7%5D%E4%BD%9C%E4%B8%9A/hw6.gif" width="50%">
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E5%A4%8D%E6%9D%82%E6%80%A7%EF%BD%9C%E8%87%AA%E7%9B%B8%E4%BC%BC%E4%B8%8E%E5%88%86%E5%BD%A2%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E8%87%AA%E7%9B%B8%E4%BC%BC%E4%B8%8E%E5%88%86%E5%BD%A2/hw7.gif" width="50%">
 
 #### 代码
-dataiyang211031hw6：
+
 ```
-//hw6
+//hw7
+float angleL ;
+float angleR ;
+float scaleL = 0.85;
+float scaleR = 0.85;
+color cl=(#F2204A);
+color cl2=(#F5A1B6);
 
-//import processing.video.*;
-//Capture video;
-
-Ball[] balls;
-
-void setup(){
-  size(600,600); 
-  
-  //video= new Capture(this, 600, 600);
-  //video.start();
-  
-  noStroke();
-  balls = new Ball[0];
+void setup() {
+  size(800, 600);
 }
 
-//void captureEvent(Capture video) {
-//  video.read();
-//}
-
-void draw(){
-  background(0);
+void draw() {
+  background(#B6DAEA);
+  translate(width/2, height/2+300);
+  Tree(10);
   
-  for (int i = 0; i < balls.length; i ++) {
-    balls[i].update();
-  }
+  float angle=map(mouseX, 0, width, 0, 360);
+  float scale=map(mouseY, 0, height, 0, 180);
   
-  if(balls.length>0)
-  println(balls[0].velocityX,"balls.length",balls.length);
-  
+  angleL = map(cos(radians(angle)), -1, 1, radians(10), radians(28));
+  angleR = map(sin(radians(angle)), -1, 1, radians(10), radians(28));  
+  scaleL=map(cos(radians(scale)), -1, 1, 0.75, 0.88);
+  scaleR=map(sin(radians(scale)), -1, 1, 0.75, 0.88);
 }
 
-void NewBall() {
-  balls = (Ball[])append(balls,new Ball());
-}
-
-void mouseClicked() {
-  NewBall();
-}
-
-void mouseDragged() {
-  NewBall();
-}
-```
-
-Ball.pde：
-```
-class  Ball {
-  float positionX;
-  float positionY;
-  float velocityX;
-  float velocityY;
-  color c;
+void Tree(float level) {
+  float dl=0.9;
   
-  float dd;
-  
-  Ball() {
-    positionX=mouseX;
-    positionY=mouseY;
-    velocityX=0;
-    velocityY=0;
-    c=color(random(100,200),random(100,120), random(100,250), random(180,250));
-    dd=random(1, 30);
-  }
-  
-  void update() {
-    
-    float accelerationX = 0, accelerationY = 0;
-    //velocityX=0;
-    //velocityY=0;
-    
-    for(Ball b : balls){
-      float distanceX = b.positionX - positionX;
-      float distanceY = b.positionY - positionY;
-      float distance = sqrt(distanceX * distanceX + distanceY * distanceY);
-      
-      if (distance >0){
-        if (distance < 1) distance = 1;
-        
-        float force = (distance - 300)*b.dd / distance;       
-        accelerationX += force * distanceX;
-        accelerationY += force * distanceY;
-      } 
-
-      velocityX = velocityX * 0.99 + accelerationX*dd/1000000;
-      velocityY = velocityY * 0.99 + accelerationY*dd/1000000;
-
+  if (level>0) {
+    strokeWeight(level+2);
+    if (level>1.8) {
+      stroke(#672B32);
+    } else {
+      stroke(#BF6C7C);
     }
+    line(0, 0, 0, -80);
+    if (level < 1){
+      fill(cl);
+      noStroke();
+      ellipse(0,-110,20,40);
+    }
+    translate(0, -80);
     
-    positionX += velocityX;
-    positionY += velocityY;  
+    pushMatrix();
+    cl=(#F2204A);
+    rotate(-angleL);
+    scale(scaleL);
+    Tree(level-dl);
+    popMatrix();
 
-    fill(c);
-    ellipse(positionX, positionY, dd, dd);
-    
+    pushMatrix();
+    cl=cl2;
+    rotate(angleR);
+    scale(scaleR);
+    Tree(level-dl);
+    popMatrix();
   }
-  
+}
+
+void mousePressed(){
+  cl2=color(227,random(60,160),153);
 }
 ```
-
 
