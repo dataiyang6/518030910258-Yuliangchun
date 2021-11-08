@@ -10,10 +10,19 @@
 - 截图/视频素材
 
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
+***
 ### 作业说明
 Image changes with the mouse press. 
+#### 文件说明
+“CreativeCoding_dataiyang_hw4”为工程文件夹，“CreativeCoding_dataiyang_hw4.pde”为作业代码；  
+“hw4.gif”和“hw4.png”为运行结果，两者一致，仅文件类型不同；   
+“hw4_case.gif”和“hw4_case.png”为网站检索文本可视化项目，两者一致，仅文件类型不同。
+#### 运行结果
 <!-- ![](https://github.com/dataiyang6/CreativeCodingHomework/blob/main/HW4/hw4.png) -->
-<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/hw4.png" width="50%">
+hw4.gif：   
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/hw4.gif" width="75%">   
+hw4.png：   
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%AD%97%E4%BD%93%E4%B8%8E%E6%96%87%E6%9C%AC%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%9B%E6%84%8F%E5%91%88%E7%8E%B0/hw4.png" width="50%">
 
 #### 代码
 ```
