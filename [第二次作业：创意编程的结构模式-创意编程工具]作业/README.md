@@ -11,7 +11,7 @@
 
 #### 代码
 ```
-//hw2 by ylc
+//hw2
 //draw a smile
 
 float pi=3.14;  //pi
@@ -42,8 +42,8 @@ void draw(){
   //a is used to change the radian of lip
   a+=pi/400;
   
-  if(a>=pi/400*98 & a<=pi/400*99){//save png,Idon't know how to save gif yet.
-  save("smile.png");}
+  if(a>=pi/400*98 & a<=pi/400*99){//save png,I don't know how to save gif yet.
+  save("hw2_smile.png");}
   
   if(a>=pi/400*99){  //when the lip completed,redraw 
     //print(a);
