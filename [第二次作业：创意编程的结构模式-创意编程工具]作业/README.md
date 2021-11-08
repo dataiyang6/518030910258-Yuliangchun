@@ -7,7 +7,7 @@
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
 ### 作业说明
 作业效果为一个逐渐微笑的笑脸，“CreativeCoding_hw2.pde”为作业代码，“smile.png”为最终的笑脸（未保存为动图）。
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.png" width="50%">
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.gif" width="50%">
 
 <img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.png" width="50%">
 
