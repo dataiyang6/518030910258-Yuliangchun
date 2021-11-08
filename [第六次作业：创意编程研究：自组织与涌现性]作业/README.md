@@ -4,15 +4,18 @@
 
 创建您自己的基于粒子系统的可交互的动态创意作品，并输出为mp4/gif文件。作业（设计说明，源代码，视频/GIF文件）上传到GitHub账户，链接上传到canvas。
 
+✏️使用readme.md进行作业介绍与说明，可通过图文等形式丰富readme.md中的内容
+***
 ### 作业说明
-#### 功能和使用方法说明
-鼠标点击画布和拖动查看效果。
-
+鼠标点击和拖动查看效果。   
+#### 文件说明
+“CreativeCoding_dataiyang_hw6”为工程文件夹，“CreativeCoding_dataiyang_hw6.pde”和“Ball.pde”为作业代码；  
+“hw6.gif”为运行结果。
 #### 运行结果
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B6%8C%E7%8E%B0%E6%80%A7%5D%E4%BD%9C%E4%B8%9A/hw6.gif" width="50%">
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B6%8C%E7%8E%B0%E6%80%A7%5D%E4%BD%9C%E4%B8%9A/hw6.gif" width="75%">
 
 #### 代码
-dataiyang211031hw6：
+CreativeCoding_dataiyang_hw6.pde：   
 ```
 //hw6
 
