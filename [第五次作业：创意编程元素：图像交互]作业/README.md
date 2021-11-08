@@ -15,11 +15,14 @@
 画笔样式默认为第一种；颜色种类每次随机生成，初次选择前为白色，选择后为所选择颜色。   
 对于选择的按钮将有彩色方框显示。  
 按下“s”键可保存png格式草图，按下“r”键将重置画布。   
+#### 文件说明
+“CreativeCoding_dataiyang_hw5”为工程文件夹，“CreativeCoding_dataiyang_hw5.pde”和“Button.pde”为作业代码；  
+“hw5.png”为示例草图。
 #### 示例草图
-<img src="https://github.com/dataiyang6/CreativeCodingHomework/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/hw5.png" width="50%">
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/hw5.png" width="75%">
 
 #### 代码
-dataiyang211023hw5.pde：
+CreativeCoding_dataiyang_hw5.pde：   
 ```
 //hw5
 //the left buttons are for pattern,and the right ones are for color.
@@ -123,7 +126,7 @@ void keyPressed(){ //save image and redraw
 }
 ```
 
-Button.pde：
+Button.pde：   
 ```
 class Button {
   float posX, posY;
