@@ -19,7 +19,7 @@
 “CreativeCoding_dataiyang_hw5”为工程文件夹，“CreativeCoding_dataiyang_hw5.pde”和“Button.pde”为作业代码；  
 “hw5.png”为示例草图。
 #### 示例草图
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%85%83%E7%B4%A0%EF%BC%9A%E5%9B%BE%E5%83%8F%E4%BA%A4%E4%BA%92%5D%E4%BD%9C%E4%B8%9A/hw5.png" width="75%">
+<img src="https://user-images.githubusercontent.com/71808245/140854509-aaa93d56-9435-4595-86cd-be9132f956a7.png" width="75%">
 
 #### 代码
 CreativeCoding_dataiyang_hw5.pde：   
