@@ -2,3 +2,4 @@
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 ![R:1](https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/test/hw2_smile.gif)
+![Rtretetertre1](https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/test/hw2_smile.png)
