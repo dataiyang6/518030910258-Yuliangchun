@@ -14,7 +14,7 @@
 “hw2_smile.gif”为运行结果，“hw2_smile.png”为最终完整的笑脸。
 #### 运行结果
 hw2_smile.gif：   
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.gif" width="75%">   
+<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/raw/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.gif" width="75%">   
 hw2_smile.png：  
 <img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%9A%84%E7%BB%93%E6%9E%84%E6%A8%A1%E5%BC%8F-%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7%5D%E4%BD%9C%E4%B8%9A/hw2_smile.png" width="75%">
 
