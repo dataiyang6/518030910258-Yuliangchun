@@ -12,7 +12,7 @@
 “CreativeCoding_dataiyang_hw6”为工程文件夹，“CreativeCoding_dataiyang_hw6.pde”和“Ball.pde”为作业代码；  
 “hw6.gif”为运行结果。
 #### 运行结果
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%87%AA%E7%BB%84%E7%BB%87%E4%B8%8E%E6%B6%8C%E7%8E%B0%E6%80%A7%5D%E4%BD%9C%E4%B8%9A/hw6.gif" width="75%">
+<img src="https://user-images.githubusercontent.com/71808245/140854750-1e157da5-1395-4b78-9a24-f58a40e3c903.gif" width="75%">
 
 #### 代码
 CreativeCoding_dataiyang_hw6.pde：   
