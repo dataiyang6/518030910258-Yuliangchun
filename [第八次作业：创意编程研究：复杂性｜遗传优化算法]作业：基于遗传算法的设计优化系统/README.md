@@ -27,7 +27,9 @@
 ![hw8_generation2](https://user-images.githubusercontent.com/71808245/141334478-36cc860c-7025-4d4c-9c61-91fd3470e189.png)   
 
 ![hw8_generation3](https://user-images.githubusercontent.com/71808245/141334497-8d465864-42a4-4009-8fb3-e556931be720.png)   
+
 ![hw8_generation4](https://user-images.githubusercontent.com/71808245/141334509-98b3a3df-5999-419f-9802-fc75ada417cc.png)   
+
 ![hw8_generation5](https://user-images.githubusercontent.com/71808245/141334524-42d87bad-9caf-4754-a559-c15b6cd96dd2.png)   
 
 
