@@ -18,13 +18,13 @@
 “hw8.mp4”为完整优化过程。
 
 #### 运行结果
-<img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E5%A4%8D%E6%9D%82%E6%80%A7%EF%BD%9C%E9%81%97%E4%BC%A0%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F/hw8.mp4" width="75%">
+<!-- <img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E5%A4%8D%E6%9D%82%E6%80%A7%EF%BD%9C%E9%81%97%E4%BC%A0%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F/hw8.mp4" width="75%"> -->
 
-![hw8_generation0](https://user-images.githubusercontent.com/71808245/141334431-2474d5eb-1b3a-434b-91bf-762f15459d66.png)
-![hw8_generation1](https://user-images.githubusercontent.com/71808245/141334462-9d4c9a59-1c0e-4379-8f31-d07c19478435.png)
-![hw8_generation2](https://user-images.githubusercontent.com/71808245/141334478-36cc860c-7025-4d4c-9c61-91fd3470e189.png)
-![hw8_generation3](https://user-images.githubusercontent.com/71808245/141334497-8d465864-42a4-4009-8fb3-e556931be720.png)
-![hw8_generation4](https://user-images.githubusercontent.com/71808245/141334509-98b3a3df-5999-419f-9802-fc75ada417cc.png)
-![hw8_generation5](https://user-images.githubusercontent.com/71808245/141334524-42d87bad-9caf-4754-a559-c15b6cd96dd2.png)
+![hw8_generation0](https://user-images.githubusercontent.com/71808245/141334431-2474d5eb-1b3a-434b-91bf-762f15459d66.png)   
+![hw8_generation1](https://user-images.githubusercontent.com/71808245/141334462-9d4c9a59-1c0e-4379-8f31-d07c19478435.png)   
+![hw8_generation2](https://user-images.githubusercontent.com/71808245/141334478-36cc860c-7025-4d4c-9c61-91fd3470e189.png)   
+![hw8_generation3](https://user-images.githubusercontent.com/71808245/141334497-8d465864-42a4-4009-8fb3-e556931be720.png)   
+![hw8_generation4](https://user-images.githubusercontent.com/71808245/141334509-98b3a3df-5999-419f-9802-fc75ada417cc.png)   
+![hw8_generation5](https://user-images.githubusercontent.com/71808245/141334524-42d87bad-9caf-4754-a559-c15b6cd96dd2.png)   
 
 
