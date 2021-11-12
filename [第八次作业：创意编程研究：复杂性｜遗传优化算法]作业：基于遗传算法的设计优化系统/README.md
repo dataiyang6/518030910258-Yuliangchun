@@ -11,7 +11,7 @@
 
 #### 功能和使用方法说明
 点击卡通形象给出喜好程度，点击`重新生成卡通形象`输出下一代。
-通过遗传算法对卡通形象`脸部、头发、嘴巴、眼睛的颜色，和耳朵、眼睛、嘴巴、头发的形状`进行优化。
+通过遗传算法对卡通形象`脸部、头发、嘴巴、眼睛的颜色`，和`耳朵、眼睛、嘴巴、头发的位置形状`进行优化。
 
 #### 文件说明
 [CreativeCoding_dataiyang_hw8](https://github.com/dataiyang6/518030910258-Yuliangchun/tree/main/%5B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E5%A4%8D%E6%9D%82%E6%80%A7%EF%BD%9C%E9%81%97%E4%BC%A0%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F/CreativeCoding_dataiyang_hw8)为工程文件夹，`hw8_generation "0-5" .png`为每一代的结果；  
