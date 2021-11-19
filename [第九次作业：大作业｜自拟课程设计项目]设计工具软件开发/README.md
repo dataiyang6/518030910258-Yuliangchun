@@ -29,24 +29,24 @@
 <table>
 	<tr>
 		<td>
-			<img src=https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png  width="25%" border=0>
+<!-- 			<img src=https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png  width="25%" border=0> -->
 		</td>
 		<td>
-<!-- 			<img src=https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png width="25%" border=0> -->
+			<img src=https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png width="25%" border=0>
 		</td>
 		<td>			
-<!-- 			<img src=https://user-images.githubusercontent.com/71808245/142551895-eb5ca33d-d6bc-4745-9550-9cb29e08e909.png width="25%" border=0> -->
+			<img src=https://user-images.githubusercontent.com/71808245/142551895-eb5ca33d-d6bc-4745-9550-9cb29e08e909.png width="25%" border=0>
 		</td>
 	</tr>
 	<tr>
 	<td>
-<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0> -->
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0>
 		</td>
 		<td>
-<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0> -->
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0>
 		</td>
 		<td>		
-<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png border=0> -->
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png border=0>
 		</td>
 	</tr>
 </table>  
