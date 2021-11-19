@@ -24,14 +24,6 @@
 `Function1_Mode1`：
 <img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png" width="50%">
  -->
-<!-- ![启动界面]()
-![切换功能界面]()
-![切换模式界面]() -->
-
-<!-- ![Function1_Mode2_18_12_3]() -->
-<!-- ![Function1_Mode1_18_11_16]() -->
-<!-- ![原图 (1)]() -->
-![Function1_Mode1_10_22_35]()
 
 
 <table>
@@ -45,10 +37,9 @@
 		<td>
 			<img src=https://user-images.githubusercontent.com/71808245/142553612-60c2dd4a-3617-4660-bf99-8976476b11a9.png border=0>
 		</td>
-
 	</tr>
 	<tr>
-	<td>
+		<td>
 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png width="50%" border=0>
 		</td>
 		<td>
