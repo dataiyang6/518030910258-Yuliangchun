@@ -26,6 +26,7 @@
  -->
 
 
+
 <table>
 	<tr>
 		<td>
@@ -40,13 +41,13 @@
 	</tr>
 	<tr>
 		<td>
-			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png width="50%" border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142554235-fb3d9eca-57f7-43cf-bf11-a74597304cd9.png border=0>
 		</td>
 		<td>
-			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png width="50%" border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142554252-18b0610b-7339-4dfa-9942-87082b23aead.png border=0>
 		</td>
 		<td>
-			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png width="50%" border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142554211-e268142a-e6e7-455e-aee0-3045f01cbaaa.png border=0>
 		</td>
 	</tr>
 </table>  
