@@ -29,11 +29,13 @@
 ![切换模式界面]() -->
 
 <!-- ![Function1_Mode2_18_12_3]() -->
+<!-- ![Function1_Mode1_18_11_16]() -->
+
 
 <table>
 	<tr>
 		<td>
-			<img src=https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png  border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142553695-dc7b4444-686d-44a2-9802-eff7df89335d.png  border=0>
 		</td>
 		<td>
 			<img src=https://user-images.githubusercontent.com/71808245/142553612-60c2dd4a-3617-4660-bf99-8976476b11a9.png border=0>
