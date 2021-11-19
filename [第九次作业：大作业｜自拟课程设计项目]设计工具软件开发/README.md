@@ -30,7 +30,7 @@
 <table>
 	<tr>
 		<td>
-			<img src=https://user-images.githubusercontent.com/71808245/142554009-f0072f8f-b937-4ddc-85d5-3916c8273fce.png border=0> 原图</center>
+			<img src=https://user-images.githubusercontent.com/71808245/142554009-f0072f8f-b937-4ddc-85d5-3916c8273fce.png border=0>
 		</td>
 		<td>
 			<img src=https://user-images.githubusercontent.com/71808245/142553695-dc7b4444-686d-44a2-9802-eff7df89335d.png  border=0>
