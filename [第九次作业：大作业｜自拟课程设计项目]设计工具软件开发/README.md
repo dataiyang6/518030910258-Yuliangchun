@@ -24,5 +24,23 @@
 `Function1_Mode1`：
 <img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png" width="50%">
 
+<table>
+	<tr>
+		<td>
+<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display2.png border=0> -->
+		</td>
+		<td>
+<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display3.png border=0> -->
+		</td>
+	</tr>
+	<tr>
+	<td>
+<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0> -->
+		</td>
+		<td>
+<!-- 			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png border=0> -->
+		</td>
+	</tr>
+</table>  
 
 
