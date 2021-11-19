@@ -30,10 +30,10 @@
 <table>
 	<tr>
 		<td>
-			<img src=https://user-images.githubusercontent.com/71808245/142554009-f0072f8f-b937-4ddc-85d5-3916c8273fce.png border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142554009-f0072f8f-b937-4ddc-85d5-3916c8273fce.png border=0> 1
 		</td>
 		<td>
-			<img src=https://user-images.githubusercontent.com/71808245/142553695-dc7b4444-686d-44a2-9802-eff7df89335d.png  border=0>
+			<img src=https://user-images.githubusercontent.com/71808245/142553695-dc7b4444-686d-44a2-9802-eff7df89335d.png  border=0> 2 
 		</td>
 		<td>
 			<img src=https://user-images.githubusercontent.com/71808245/142553612-60c2dd4a-3617-4660-bf99-8976476b11a9.png border=0>
