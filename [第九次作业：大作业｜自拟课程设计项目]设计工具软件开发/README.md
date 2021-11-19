@@ -20,19 +20,10 @@
 <!-- <img src="https://github.com/dataiyang6/518030910258-Yuliangchun/blob/main/%5B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%88%9B%E6%84%8F%E7%BC%96%E7%A8%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E5%A4%8D%E6%9D%82%E6%80%A7%EF%BD%9C%E9%81%97%E4%BC%A0%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%5D%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9F%BA%E4%BA%8E%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F/hw8.mp4" width="75%"> -->
 部分示意图，详见`hw9_示范视频（经倍速处理）.mp4`及`hw9_作品集`。   
 `原图`（以明星图像作为示例图像）：   
-<!-- <img src="https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png" width="50%"> 
+<img src="https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png" width="50%"> 
 `Function1_Mode1`：
-<img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png" width="50%"> -->
+<img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png" width="50%">
 
-
-
-<center class="half">
-    <img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png" width="200"/><img src="https://user-images.githubusercontent.com/71808245/142530970-0751b692-69d2-49f9-9122-f76de4997fa6.png" width="200">
-</center>
-
-<center class="half">
-    <img src="https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/>
-</center>
 
 <table>
 	<tr>
