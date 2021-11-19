@@ -27,14 +27,15 @@
 
 <table>
     <tr>
-        <td ><center>
-<img src="https://user-images.githubusercontent.com/71808245/142550658-5f59bdbe-e6cc-4917-9d79-837f6b69c033.png" >原图 </center></td>
+        <td ><center><img src="https://user-images.githubusercontent.com/71808245/142550658-5f59bdbe-e6cc-4917-9d79-837f6b69c033.png" >原图 </center></td>
         <td ><center><img src="https://user-images.githubusercontent.com/71808245/142533900-99fa0236-e938-4dfb-954e-4fce9ab922f2.png"  >Function1_Mode1 </center></td>
+	<td ><center><img src="https://user-images.githubusercontent.com/71808245/142550923-2bd89679-3982-4d47-98e4-f1f106245caf.pn"  >Function1_Mode1 </center></td> 
     </tr>
 
     <tr>
-        <td><center><img src="https://img-blog.csdn.net/20180731150144421?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMzODI2NTY0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70"  >图3 新垣结衣2</center></td>
-        <td ><center><img src="https://img-blog.csdn.net/20180731150144421?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMzODI2NTY0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70"  >图4 新垣结衣2</center> </td>
+        <td><center><img src="https://user-images.githubusercontent.com/71808245/142551013-3e863375-6e86-4b0a-aab8-35ef4e82ecbe.png"  >启动界面</center></td>
+	 <td><center><img src="https://user-images.githubusercontent.com/71808245/142551088-81fc4cb8-ecdd-4873-9913-f87e979460f5.png"  >切换功能界面</center></td>   
+        <td ><center><img src="https://user-images.githubusercontent.com/71808245/142551153-fb709c69-e9ea-445e-866f-9e4ddf744134.pn"  >切换模式界面</center> </td>
     </tr>
 </table>
 
